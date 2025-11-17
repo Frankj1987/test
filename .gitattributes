@@ -10,7 +10,7 @@
 # default for csharp files.
 # Note: This is only used by command line
 ###############################################################################
-#*.cs     diff=csharp2
+#*.cs     diff=csharp3 - feature100
 
 ###############################################################################
 # Set the merge driver for project and solution files
